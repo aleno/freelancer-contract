@@ -8,7 +8,8 @@ that are in turn based on Andy Clarke's contract killer (http://24ways.org/2008/
 
 We offer no legal advice here, but you are free to use the contracts at your own risk.
 
-= License = 
+License
+-------
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
 http://creativecommons.org/licenses/by/4.0/
