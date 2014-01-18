@@ -17,7 +17,7 @@ end
 CONTRACTS.each do |contract|
   FileUtils.mkdir_p "build"
   task contract do
-   `xelatex --output-directory=build #{contract}.tex`
+   `xelatex --output-directory=build -interaction=nonstopmode #{contract}.tex`
   end
 end
 
